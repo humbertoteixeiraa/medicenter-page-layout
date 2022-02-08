@@ -63,7 +63,7 @@ nav .active a , nav a:hover{
     justify-content: center;
 
     /* Os../ fazem o VSCODE sair da pasta CSS e acessar a pasta IMAGES.*/
-    background-image: url('../images/girl.jpg');
+    background-image: url('../images/doctor.jpg');
     background-position: center;
     /* Essa propriedade faz a imagem ocupar toda a extensão disponível nos monitores de diversos tamanhos. */
     background-size: cover;

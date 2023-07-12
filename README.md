@@ -1,4 +1,5 @@
-# site-medcenter
- Projeto de página de uma Clínica de Especialidades Médicas criado utilizando os conceitos básicos de HTML e CSS.
- 
- Link: https://sitemedicenter-hbt.netlify.app/
+# medicenter-page-layout
+* B7Web's HTML5 and CSS3 Course Exercise.
+* Objective: to work on the concepts of HTML5 and CSS3.
+* Technologies used: HTML5 and CSS3.
+* Link: https://medicenter-page-layout.netlify.app/
